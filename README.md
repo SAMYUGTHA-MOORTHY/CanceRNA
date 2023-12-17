@@ -7,4 +7,4 @@ COAD — Colon adenocarcinoma,
 LUAD — Lung adenocarcinoma,
 PRAD — Prostate adenocarcinoma.
 
-The project uses KNN algorithm to classify a given cancerous RNA data into any one of the above cancers.
+The project uses K-Means clustering algorithm to classify a given cancerous RNA data into any one of the above cancers.
